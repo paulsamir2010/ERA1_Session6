@@ -4,6 +4,20 @@
 
 ### Part 1 - Backpropagation in Excel - Derivative Formulas
 
+Simple Neural Network used shown below
+
+![image](https://github.com/paulsamir2010/ERA1_Session6/blob/main/Neural%20Network.jpg)
+
+Formulas for Errors, output neurons and hidden neurons are shown below
+
+![image](https://github.com/paulsamir2010/ERA1_Session6/blob/main/Formulas.png)
+
+Derivative calculation are shown below
+
+![image](https://github.com/paulsamir2010/ERA1_Session6/blob/main/Derivatives%201.jpg)
+
+
+
 ###  Part 2
 
 #### About Part 2 of this Assignment
