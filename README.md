@@ -2,6 +2,8 @@
 
 ## Session 6 Assignment of ERA 1 program from TSAI "The School of AI" - Backpropagation and Advanced Architectures
 
+### Part 1 - Backpropagation in Excel - Derivative Formulas
+
 ###  Part 2
 
 #### About Part 2 of this Assignment
