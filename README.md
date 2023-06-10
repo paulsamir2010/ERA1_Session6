@@ -8,6 +8,18 @@ Simple Neural Network used shown below
 
 ![image](https://github.com/paulsamir2010/ERA1_Session6/blob/main/Neural%20Network.jpg)
 
+i1 and i2 are input. a_o1 and o_h2 are output after final sigmoid activation.
+
+It has only 1 hidden layer with two neurons h1 and h2.
+
+Total error E_Total is equal to the sum of E1 and E2
+
+Loss or Error = |Actual - Preducted|
+
+Derivatives of error with respect to each wiight like w5 , w6. w7 etc are calculated, these are used used to finally update the witght as part of backpropagation.
+
+
+
 Formulas for Errors, output neurons and hidden neurons are shown below
 
 ![image](https://github.com/paulsamir2010/ERA1_Session6/blob/main/Formulas.png)
