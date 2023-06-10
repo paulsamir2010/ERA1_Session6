@@ -30,6 +30,8 @@ Relu Activation Function used
 
 Batch Normalization and Dropout used.
 
+![image](https://github.com/paulsamir2010/ERA1_Session6/blob/main/Model%20Parameters.png)
+
 #### Framework and main libraries used
 
 Framework = Pytorch
